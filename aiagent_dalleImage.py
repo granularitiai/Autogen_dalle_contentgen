@@ -4,7 +4,7 @@
 # In[1]:
 
 
-api_key = "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"
+api_key = "Your OpenAI api key"
 
 
 # In[2]:
